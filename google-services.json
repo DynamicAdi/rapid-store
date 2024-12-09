@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "856045499212",
-    "project_id": "andreo-ae15f",
-    "storage_bucket": "andreo-ae15f.firebasestorage.app"
+    "project_number": "932326870231",
+    "project_id": "rapidstore-117b5",
+    "storage_bucket": "rapidstore-117b5.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:856045499212:android:f9e6a131cd81b3f7afd5e9",
+        "mobilesdk_app_id": "1:932326870231:android:a739df1ca89ba7e499f492",
         "android_client_info": {
           "package_name": "com.rapidstore.app"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBgGKNhiAPon6eEWbfUqQrFZJXVjYuM5X0"
+          "current_key": "AIzaSyCuKw-zybw6EB5izvABeW5qog06bQFVs9s"
         }
       ],
       "services": {
